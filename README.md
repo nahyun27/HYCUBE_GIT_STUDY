@@ -1,2 +1,7 @@
 # Hicube_Git_Study
-For study
+
+please write your name below.
+
+|Name|Grade|
+|--------|----------|
+|김나현|1학년|
